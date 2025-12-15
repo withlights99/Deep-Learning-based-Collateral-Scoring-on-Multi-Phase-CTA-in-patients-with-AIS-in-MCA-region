@@ -1,0 +1,31 @@
+(Transform "AffineTransform")
+(NumberOfParameters 12)
+(TransformParameters 0.999930 0.000119 -0.000675 0.000123 0.999921 -0.003211 0.000490 0.002899 0.999597 0.088030 -0.042474 -0.011213)
+(InitialTransformParametersFileName "./TransformParameters.3.txt")
+(UseBinaryFormatForTransformationParameters "false")
+(HowToCombineTransforms "Compose")
+
+// Image specific
+(FixedImageDimension 3)
+(MovingImageDimension 3)
+(FixedInternalImagePixelType "float")
+(MovingInternalImagePixelType "float")
+(Size 436 436 436)
+(Index 0 0 0)
+(Spacing 0.5000000000 0.5000000000 0.5000000000)
+(Origin -124.0999984741 114.3312530518 -170.0000000000)
+(Direction 1.0000000000 0.0000000000 0.0000000000 0.0000000000 -1.0000000000 0.0000000000 0.0000000000 0.0000000000 1.0000000000)
+(UseDirectionCosines "true")
+
+// AdvancedAffineTransform specific
+(CenterOfRotationPoint -15.3981292804 5.5102054011 -61.0420041364)
+
+// ResampleInterpolator specific
+(ResampleInterpolator "FinalLinearInterpolator")
+
+// Resampler specific
+(Resampler "DefaultResampler")
+(DefaultPixelValue 0.000000)
+(ResultImageFormat "nii")
+(ResultImagePixelType "float")
+(CompressResultImage "false")
