@@ -1,0 +1,1 @@
+# Deep-Learning-based-Collateral-Scoring-on-Multi-Phase-CTA-in-patients-with-AIS-in-MCA-region
